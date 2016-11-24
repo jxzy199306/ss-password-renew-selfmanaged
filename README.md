@@ -1,3 +1,3 @@
-# openwrt-chinabanned
+# ss-password-renew-selfmanaged
 
-openwrt里面的“域名列表”中china-banned列表，自己添加了几个域名，不断更新中。
+指定ss端口修改指定密码
